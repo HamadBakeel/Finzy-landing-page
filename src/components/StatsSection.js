@@ -64,7 +64,7 @@ export default function StatsSection() {
         </div>
 
         {/* Header Section 2 */}
-        <div className="flex flex-col lg:flex-row justify-between items-start lg:items-center pb-20 pt-26">
+        <div className="flex flex-col lg:flex-row justify-between items-start lg:items-center pb-10 pt-26">
           <div className="lg:max-w-lg mb-8 lg:mb-0">
             <h2 className="text-4xl sm:text-5xl font-medium text-black mb-4 leading-tight">
               Save Time By Having<br />
