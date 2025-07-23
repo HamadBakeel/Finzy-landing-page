@@ -3,6 +3,7 @@ import StatsSection from '../components/StatsSection';
 import Features from '../components/Features';
 import ServicesSection from '../components/ServicesSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
+import AppDownloadSection from '../components/AppDownloadSection';
 
 export default function Home() {
   return (
@@ -11,7 +12,8 @@ export default function Home() {
       <StatsSection />
       <Features />
       <ServicesSection />
-      <TestimonialsSection/>
+      <TestimonialsSection />
+      <AppDownloadSection />
     </main>
   );
 }
