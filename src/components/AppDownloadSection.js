@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 export default function AppDownloadSection() {
   return (
-    <section className="relative min-h-[500px] mb-10 flex items-center justify-center overflow-hidden">
+    <section className="relative min-h-[500px] flex items-center justify-center overflow-hidden">
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
